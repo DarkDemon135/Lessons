@@ -1,6 +1,8 @@
 #include<iostream>
 #include<string>
+
 using namespace std;
+
 class Calculator {
     float a, b;
     public:
